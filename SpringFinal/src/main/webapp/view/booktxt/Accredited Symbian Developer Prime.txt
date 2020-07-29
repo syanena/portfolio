@@ -1,0 +1,6 @@
+The authors are experts in the field of Symbian C++ and contributed extensively to the design and creation of questions for the ASD exam. Jo Stichbury is the author of Symbian OS Explained and both authors are, of course, fully qualified Accredited Symbian Developers.
+
+From the Back Cover
+The Accredited Symbian Developer qualification (ASD) allows professional Symbian developers to validate their understanding and knowledge of Symbian C++ software development with an industry-recognized certificate of professional achievement.
+
+The Accredited Symbian Developer Primer is the definitive guide to passing the ASD exam and becoming an Accredited Symbian Developer. The authors have identified essential information within the exam and explained each aspect in the appropriate detail.
